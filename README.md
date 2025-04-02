@@ -1,8 +1,8 @@
 # Trojan-Wilds
 Wildcard Enumeration Tool
 
-#installation
+# installation
 bla bla bla
 
-#Run
+# Run
 -$ python3 Trojan-Wilds.py
